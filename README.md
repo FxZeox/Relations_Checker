@@ -15,6 +15,7 @@ This project implements a C++ program to handle various operations on relations 
 ## Requirements
 - C++ compiler (GCC/Clang/MSVC)
 - Console to run the program
+- Visual Studio 
 
 ## How to Compile
 Use the following command to compile the program:
